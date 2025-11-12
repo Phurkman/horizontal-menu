@@ -1,0 +1,41 @@
+/* GLOBAL STYLES */
+
+body {
+	background-color: azure;
+}
+
+code {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+/* WRAPPER */
+
+.wrapper {
+	width: 948px;
+	margin: 0 auto;
+	background-color: aliceblue;
+	border: 3px solid lightsteelblue;
+}
+
+/* HEADER */
+
+.header {
+	padding-top: 20px;
+	background-color: powderblue;
+}
+
+.heading {
+	padding-left: 10px;
+	margin: 0;
+}
+
+.intro {
+	padding-left: 10px;
+}
+
+/* MAIN */
+
+.main-content {
+	padding: 10px;
+}
