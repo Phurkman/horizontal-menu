@@ -34,6 +34,35 @@ code {
 	padding-left: 10px;
 }
 
+.flex {
+	display: flex;
+    justify-content:space-between;
+    list-style-type:none;
+    color: antiquewhite;
+	padding-left: 0px;
+	
+
+}
+.list-style {
+	flex-grow: 1;
+	
+}
+a {
+    color: rgb(28, 1, 102);
+    text-decoration: none;
+	background-color:cornflowerblue;
+	display: block;
+	margin: 0 15px;
+	padding: 5px 15px;
+	text-align: center;
+
+}
+.current-page {
+	background-color:aliceblue;
+}
+a:hover {
+	background-color: rgb(148, 145, 210);
+}
 /* MAIN */
 
 .main-content {

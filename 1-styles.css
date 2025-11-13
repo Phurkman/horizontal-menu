@@ -30,8 +30,29 @@ code {
 .menu {
     background-color: silver;
     border: 1px solid gray;
+  
 }
+.flex {
+    display: flex;
+    justify-content:space-between;
+    flex-grow: 5;
+    list-style-type:none;
+    padding-right: 500px;
+    color: antiquewhite;
+}
+a {
+    color: black;
+    text-decoration: none;
 
+}
+.link-style{ color: black;
+
+}
+a:hover {
+    background-color: dimgray;
+    padding: 17px;
+    color: aliceblue;
+}
 /* MAIN */
 
 .main-content {
